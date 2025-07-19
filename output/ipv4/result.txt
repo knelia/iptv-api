@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2025-07-19 18:16:19,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-07-20 06:16:26,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV-1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV-2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
-CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
+CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT
