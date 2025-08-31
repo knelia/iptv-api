@@ -1,5 +1,12 @@
 🕘️更新时间,#genre#
-2025-08-31 18:14:27,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-01 06:17:21,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5+,http://113.26.202.52:1299/tsfile/live/0016_1.m3u8
+CCTV-6,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
+CCTV-7,http://113.26.202.52:1299/tsfile/live/0007_1.m3u8
+CCTV-9,http://113.26.202.52:1299/tsfile/live/0009_1.m3u8
+CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
+CCTV-10,http://113.26.202.52:1299/tsfile/live/0010_1.m3u8
+CCTV-14,http://113.26.202.52:1299/tsfile/live/0014_1.m3u8
