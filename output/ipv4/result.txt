@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-27 18:18:00,http://60.13.52.236:65500/newlive/live/hls/16/live.m3u8
+2025-11-28 06:14:26,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226914/1.m3u8
 
 📺央视频道,#genre#
-CCTV-13,http://60.13.52.236:65500/newlive/live/hls/16/live.m3u8
-CCTV-13,http://60.13.52.236:65500/newlive/live/hls/13/live.m3u8
+CCTV-11,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226914/1.m3u8
