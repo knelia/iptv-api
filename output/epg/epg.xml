@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260627225800 +0800">
+<tv date="20260628114416 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4206,9 +4206,6 @@
 	<programme channel="CETV2" start="20260628012000 +0800" stop="20260628014000 +0800">
 		<title lang="zh">五年级数学:数据的表示和分析</title>
 	</programme>
-	<programme channel="CETV2" start="20260628012000 +0800" stop="20260628014000 +0800">
-		<title lang="zh">五年级数学:数据的表示和分析</title>
-	</programme>
 	<programme channel="CETV2" start="20260628014000 +0800" stop="20260628020000 +0800">
 		<title lang="zh">六年级数学:正比例和反比例</title>
 	</programme>
@@ -4281,6 +4278,9 @@
 	<programme channel="CETV2" start="20260628133000 +0800" stop="20260628140000 +0800">
 		<title lang="zh">美丽人生</title>
 	</programme>
+	<programme channel="CETV2" start="20260628133000 +0800" stop="20260628140000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<programme channel="CETV2" start="20260628140000 +0800" stop="20260628143000 +0800">
 		<title lang="zh">等着我</title>
 	</programme>
@@ -4342,9 +4342,6 @@
 		<title lang="zh">一堂好课Ⅱ</title>
 	</programme>
 	<programme channel="CETV2" start="20260628235900 +0800" stop="20260629060000 +0800">
-		<title lang="zh">节目结束</title>
-	</programme>
-	<programme channel="CETV2" start="20260629000000 +0800" stop="20260629060000 +0800">
 		<title lang="zh">节目结束</title>
 	</programme>
 	<programme channel="CETV2" start="20260629060000 +0800" stop="20260629060100 +0800">
@@ -4439,6 +4436,9 @@
 	</programme>
 	<programme channel="CETV2" start="20260629132200 +0800" stop="20260629132800 +0800">
 		<title lang="zh">导视</title>
+	</programme>
+	<programme channel="CETV2" start="20260629132800 +0800" stop="20260629133300 +0800">
+		<title lang="zh">国宝时刻(44):刻花鹅颈瓶</title>
 	</programme>
 	<programme channel="CETV2" start="20260629132800 +0800" stop="20260629133300 +0800">
 		<title lang="zh">国宝时刻(44):刻花鹅颈瓶</title>
